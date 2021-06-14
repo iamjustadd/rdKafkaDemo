@@ -44,5 +44,4 @@ then start ./multiPord to listen giving port
 then try run ./processor to generate random data.
 
 that's all.
-
-I wish you can have fun.
+rerorerorerorerorero
